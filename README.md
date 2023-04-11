@@ -28,10 +28,10 @@ Want to know more about me? [Check out my portfolio](https://github.com/Rudy45KC
 
 ## Current Stats
 
-|   ![Rudy's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rudy45kc&theme=rogue)
+|   ![RudeDude's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RudeDude29&theme=rogue)
 | :---: |
 
-| ![Rudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudy45kc&show_icons=true&theme=city_lights) | ![Rudy's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudy45kc&theme=city-lights) |
+| ![RudeDude's GitHub stats](https://github-readme-stats.vercel.app/api?username=RudeDude29&show_icons=true&theme=city_lights) | ![RudeDude29's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RudeDude29&theme=city-lights) |
 | :---: | :---: |
  
  <picture>
