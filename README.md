@@ -2,7 +2,7 @@
 <!-- [![Rudy's GitHub Banner](./assets/GithubBanner.png)](https://github.com/Rudy45KC/Portfolio-Krishnesh-Chaurasia)
  -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/Ashish-Bishnoi/">
+  <a href="https://www.linkedin.com/feed/?trk=404_page">
     <img src="https://img.shields.io/badge/Ashish-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
  </a>
 <a href="https://twitter.com/_rudy45kc">
