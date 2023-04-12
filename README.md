@@ -2,18 +2,18 @@
 <!-- [![Rudy's GitHub Banner](./assets/GithubBanner.png)](https://github.com/Rudy45KC/Portfolio-Krishnesh-Chaurasia)
  -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/krishnesh-chaurasia-36a893215/">
-    <img src="https://img.shields.io/badge/krishnesh-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+  <a href="https://www.linkedin.com/in/Ashish-Bishnoi/">
+    <img src="https://img.shields.io/badge/Ashish-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
  </a>
 <a href="https://twitter.com/_rudy45kc">
-    <img src="https://img.shields.io/badge/-rudy45kc-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/-RudeDude29-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
  </a>
 
 Hey there,
 
-I'm Krishnesh Chaurasia, a Web Developer based in Phagwara PB, Who is passionate about building user-friendly, easy-to-use single page applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies. I'm Currently learning ReactJS, and looking to collaborate on Open-Source projects, with a goal to be involved in the Community. I'm also open to having a chat about **Anything Web Development Related**.
+I'm Ashish Bishnoi, a Web Developer based in Phagwara PB, Who is passionate about building user-friendly, easy-to-use single page applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies. I'm Currently learning ReactJS, and looking to collaborate on Open-Source projects, with a goal to be involved in the Community. I'm also open to having a chat about **Anything Web Development Related**.
 
-Want to know more about me? [Check out my portfolio](https://github.com/Rudy45KC/Portfolio-Krishnesh-Chaurasia)
+Want to know more about me? [Check out my portfolio](https://github.com/Rudy45KC/Portfolio-Ashish-Bishnoi)
 
 ## Current Stack
 
